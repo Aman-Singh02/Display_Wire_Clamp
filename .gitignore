@@ -1,0 +1,33 @@
+# Ignore all files in BrowseInfo directory
+EWARM/Source_Code/BrowseInfo/
+
+EWARM/Source_Code/.ninja_log
+
+EWARM/Source_Code/BrowseInfo/.ninja_log
+
+# Ignore specific files and patterns in BrowseInfo
+EWARM/Source_Code/BrowseInfo/**/*.pbi.dep
+EWARM/Source_Code/BrowseInfo/**/*.pbi
+EWARM/Source_Code/BrowseInfo/**/*.xcl
+
+EWARM/Source_Code/BrowseInfo/App_1701151011510409763.dir/lwip.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/APP_RAM.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/File_Handling.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/Msic_Function.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/SPI_Flash_Driver.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/Scanner.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/Slave_Read_Write.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/TCPServerRAW.pbi.dep
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi.dep
+EWARM/Source_Code/BrowseInfo/Target_3350788479523181063.dir/ethernetif.pbi.dep
+
+# Ignore specific renamed files in BrowseInfo
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/Scanner.xcl
+EWARM/Source_Code/BrowseInfo/Core_13247989168731456611.dir/TCPServerRAW.xcl
+
+# Ignore all files in Obj directory
+EWARM/Source_Code/Obj/
+
+# Ignore specific object files and response files in Obj
+EWARM/Source_Code/Obj/**/*.o
+EWARM/Source_Code/Obj/**/*.rsp

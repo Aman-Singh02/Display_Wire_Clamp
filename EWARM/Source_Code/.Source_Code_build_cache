@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\AMAN\Downloads\WC_Gateway-main\2.0\WC_Gateway-main\WC_Gateway-main\EWARM\Source_Code\Exe\Source_Code.out</Path>
+            <Output>
+                <Path>C:\Users\AMAN\Downloads\WC_Gateway-main\2.0\WC_Gateway-main\WC_Gateway-main\EWARM\Source_Code\List\Source_Code.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\AMAN\Downloads\WC_Gateway-main\WC_Gateway-main\EWARM\Source_Code\Exe\Source_Code.out</Path>
+            <Output>
+                <Path>C:\Users\AMAN\Downloads\WC_Gateway-main\WC_Gateway-main\EWARM\Source_Code\List\Source_Code.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
